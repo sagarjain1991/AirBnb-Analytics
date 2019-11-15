@@ -1,0 +1,10 @@
+shiny
+shinydashboard
+googleVis
+leaflet
+shinythemes
+ggthemes
+wordcloud
+dygraphs
+xts == 0.9-7
+DT
